@@ -1,0 +1,5 @@
+Pillow==3.3.1
+PyMySQL==0.7.9
+Scrapy==1.2.0
+scrapyd==1.1.0
+attrdict==2.0.0
