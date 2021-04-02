@@ -1,4 +1,4 @@
-Pillow==5.2.0
+Pillow==8.2.0
 PyMySQL==0.7.9
 Scrapy==1.2.0
 scrapyd==1.1.0
