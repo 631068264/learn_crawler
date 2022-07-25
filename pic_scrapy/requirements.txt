@@ -1,5 +1,5 @@
 Pillow==5.2.0
 PyMySQL==0.7.9
-Scrapy==1.2.0
+Scrapy==2.6.2
 scrapyd==1.1.0
 attrdict==2.0.0
